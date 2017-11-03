@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ChineseRecipes</string>
+    <string name="homeScreenText">Start</string>
+    <string name="Breakfast">Breakfast</string>
+    <string name="Dinner">Dinner</string>
+    <string name="Lunch">Lunch</string>
+    <string name="Dessert">Dessert</string>
+
+    <string-array name="recipeNames">
+        <item>Item one</item>
+        <item>Item two</item>
+    </string-array>
+    <string-array name="recipePhotos">
+        <item>Item one</item>
+        <item>Item two</item>
+    </string-array>
+
+</resources>
